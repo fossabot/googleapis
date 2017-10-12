@@ -1,4 +1,6 @@
 # Google APIs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fgoogleapis.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fgoogleapis?ref=badge_shield)
+
 
 This repository contains the original interface definitions of public
 Google APIs that support both REST and gRPC protocols. Reading the
@@ -76,3 +78,7 @@ https://github.com/googleapis for generating linkable client libraries.
 It is difficult to generate Go gRPC source code from this repository,
 since Go has different directory structure.
 Please use [this repository](https://github.com/google/go-genproto) instead.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fgoogleapis.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fgoogleapis?ref=badge_large)
